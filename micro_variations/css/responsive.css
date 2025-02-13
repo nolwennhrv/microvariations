@@ -1,0 +1,96 @@
+@media (max-width: 800px) {
+
+   #rond2{
+      position: absolute;
+      height: 8vh;
+      top: 55vh;
+      left:79vw;
+    }
+    #rond3{
+      position: absolute;
+      height: 9vh;
+      top: 71vh;
+      left:66vw;
+    }
+    #rond4{
+      position: absolute;
+      height: 9vh;
+      top: 73vh;
+      left:43vw;
+    }
+    #rond5{
+      position: absolute;
+      height: 8vh;
+      top: 80vh;
+      left:10vw;
+    }
+    #rond6{
+      position: absolute;
+      height: 9vh;
+      top: 62vh;
+      left:19vw;
+    }
+    #rond7{
+      position: absolute;
+      height: 22vh;
+      top: 67vh;
+      left:86vw;
+    }
+    #rond8{
+      position: absolute;
+      height: 12vh;
+      top: 30vh;
+      left:85vw;
+    }
+    #rond9{
+      position: absolute;
+      height: 11vh;
+      top:16vh;
+      left:68vw;
+    }
+    #rond10{
+      position: absolute;
+      height: 13vh;
+      top: 7vh;
+      left:44vw;
+    }
+    #rond11{
+      position: absolute;
+      height: 7vh;
+      top: 40vh;
+      left:10vw;
+    }
+    #rond12{
+      position: absolute;
+      height: 10vh;
+      top: 56vh;
+      left:0vw;
+    }
+    #rond13{
+      position: absolute;
+      height: 10vh;
+      top: 19vh;
+      left:4vw;
+    }
+    #rond14{
+      position: absolute;
+      height: 14vh;
+      top: 12vh;
+      left:21vw;
+    }
+    
+    #particule2{
+      position: absolute;
+      height: 5vh;
+      top: 88vh;
+      left:3vw;
+    }
+    }
+    
+    @media (max-width: 1000px) and (min-width :800px){
+    /*apparence différente pour une page comprise entre 800px et 1000px*/
+    }
+    
+    @media (min-width :1800px){
+    /*apparence différente pour une page supérieure à 1800px*/
+    }

@@ -1,0 +1,150 @@
+body{
+  height: 300vh; 
+}
+
+main{
+  position : fixed;
+  height: 100vh;
+  width: 100vw;
+  /* background-image: url(../img/ramification.svg); */
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#ramification{
+ position: absolute;
+ height: 100%;
+ width: 100%;
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+
+
+#rond2{
+  position: absolute;
+  height: 12vh;
+  top: 55vh;
+  left:79vw;
+}
+#rond3{
+  position: absolute;
+  height: 12vh;
+  top: 71vh;
+  left:66vw;
+}
+#rond4{
+  position: absolute;
+  height: 14vh;
+  top: 71vh;
+  left:45vw;
+}
+#rond5{
+  position: absolute;
+  height: 14vh;
+  top: 80vh;
+  left:10vw;
+}
+#rond6{
+  position: absolute;
+  height: 17vh;
+  top: 62vh;
+  left:19vw;
+}
+#rond7{
+  position: absolute;
+  height: 22vh;
+  top: 67vh;
+  left:86vw;
+}
+#rond8{
+  position: absolute;
+  height: 24vh;
+  top: 25vh;
+  left:85vw;
+}
+#rond9{
+  position: absolute;
+  height: 17vh;
+  top: 12vh;
+  left:73vw;
+}
+#rond10{
+  position: absolute;
+  height: 19vh;
+  top: 5vh;
+  left:47vw;
+}
+#rond11{
+  position: absolute;
+  height: 11vh;
+  top: 36vh;
+  left:14vw;
+}
+#rond12{
+  position: absolute;
+  height: 22vh;
+  top: 46vh;
+  left:3vw;
+}
+#rond13{
+  position: absolute;
+  height: 22vh;
+  top: 13vh;
+  left:4vw;
+}
+#rond14{
+  position: absolute;
+  height: 21vh;
+  top: 5vh;
+  left:24vw;
+}
+
+#particule1{
+  position: absolute;
+  height: 9vh;
+  top: 9vh;
+  left:84vw;
+}
+#particule2{
+  position: absolute;
+  height: 5vh;
+  top: 88vh;
+  left:7vw;
+}
+#particule3{
+  position: absolute;
+  height:4vh;
+  top: 81vh;
+  left:23vw;
+}
+#particule4{
+  position: absolute;
+  height: 7vh;
+  top: 92vh;
+  left:87vw;
+}
+#particule5{
+  position: absolute;
+  height: 7vh;
+  top: 62vh;
+  left:44vw;
+}
+#particule6{
+  position: absolute;
+  height: 7vh;
+  top: 2vh;
+  left:54vw;
+}
+#particule7{
+  position: absolute;
+  height: 8vh;
+  top: 5vh;
+  left:9vw;
+}
+
+#foret{
+  position: absolute;
+}
+
+/* ne pas toucher aux éléments ci-dessus. On travail c'est ce qui permet d'avoir une page que l'on peut 
+"scroller" mais qui visuellement ne bouge pas. */
